@@ -1,6 +1,6 @@
 # AI-Native Full-Stack Developer | Python, Node.js, React, AWS & Azure
 
-Backend-focused full-stack developer & cloud specialist with 8+ years building scalable SaaS platforms, MVPs, and production-ready apps. I've helped Forbes 30 Under 30 companies grow and contributed to projects for Fortune 100 organizations.
+Backend-focused full-stack developer & cloud specialist with 8+ years building scalable SaaS platforms, MVPs, and production-ready apps. I've helped **Forbes 30 Under 30** companies grow and contributed to projects for **Fortune** 100 organizations.
 
 **Stack:** Python · FastAPI · Django · Node.js · React · Next.js · PostgreSQL · AWS · Azure · GCP
 
